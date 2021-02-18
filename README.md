@@ -1,2 +1,2 @@
 PROJECT TEAM
-- Object Detection
+- branch별 관리
